@@ -1,0 +1,36 @@
+<Config>
+    <SingleTarget>
+        <SingleTargetSpell name="'Moonfire" key="7" cd="1"/>1435
+        <SingleTargetSpell name="'Thrash" key="1" cd="6"/>
+        <SingleTargetSpell name="'Mangle" key="3" cd="6"/>
+        <SingleTargetSpell name="Swipe" key="4" cd="1"/>
+        <SingleTargetSpell name="Swipe" key="4" cd="1"/>
+        <SingleTargetSpell name="'Thrash" key="1" cd="6"/>
+        <SingleTargetSpell name="'Mangle" key="3" cd="6"/>
+        <SingleTargetSpell name="Ironfur" key="5" cd="1"/>
+        <SingleTargetSpell name="Pulverize" key="2" cd="18"/>
+        <SingleTargetSpell name="'Thrash" key="1" cd="6"/>
+    </SingleTarget>
+
+    <MultipleTargets>
+        <MultipleTargetsSpell name="'Thrash" key="1" cd="6"/>
+        <MultipleTargetsSpell name="'Moonfire" key="7" cd="1"/>
+        <MultipleTargetsSpell name="'chageTarget" key="tab" cd="1"/>
+        <MultipleTargetsSpell name="'Moonfire" key="7" cd="1"/>
+        <MultipleTargetsSpell name="'chageTarget" key="tab" cd="1"/>
+        <MultipleTargetsSpell name="'Moonfire" key="7" cd="1"/>
+        <MultipleTargetsSpell name="'Thrash" key="1" cd="6"/>
+        <MultipleTargetsSpell name="'Mangle" key="3" cd="6"/>
+        <MultipleTargetsSpell name="Swipe" key="4" cd="1"/>
+        <MultipleTargetsSpell name="Swipe" key="4" cd="1"/>
+        <MultipleTargetsSpell name="'Thrash" key="1" cd="6"/>
+        <MultipleTargetsSpell name="'Mangle" key="3" cd="6"/>
+        <MultipleTargetsSpell name="Ironfur" key="5" cd="1"/>
+        <MultipleTargetsSpell name="Pulverize" key="2" cd="18"/>
+        <MultipleTargetsSpell name="'Thrash" key="1" cd="6"/>
+        <MultipleTargetsSpell name="Swipe" key="4" cd="1"/>
+        <MultipleTargetsSpell name="'Mangle" key="3" cd="6"/>
+        <MultipleTargetsSpell name="Ironfur" key="5" cd="1"/>
+        <MultipleTargetsSpell name="Swipe" key="4" cd="1"/>
+    </MultipleTargets>
+</Config>
